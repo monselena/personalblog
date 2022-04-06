@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UFT-8" />
+  <meta name="viewport" content="width=device-width" , initial-scale="1.o" />
+  <style>
+body {
+    background-color: 	#f5a3a3
+}
+</style>
+</html>
+<head>
+  <title>Bánh Trung Thu Blog</title>
+</head>
+<body>
+  <div>Blog</div>
+  <br /><br />
+  <h1>Bánh Trung Thu Blog</h1>
+  <ul>
+    <li>
+      <a href="https://trungthukinhdo.vn/"> home</a>
+    </li>
+    <li>products:</li>
+    <ol>
+      <li>
+        <a
+          href="https://trungthukinhdo.vn/danh-muc/san-pham/banh-nuong-2-trung-db/"
+          >Bánh nướng hai trứng</a
+        >
+      </li>
+      <li>
+        <a href="https://trungthukinhdo.vn/danh-muc/banh-deo/">Bánh dẻo</a>
+      </li>
+      <li>
+        <a href="https://trungthukinhdo.vn/danh-muc/banh-nuong-2-trung/">Bánh nướng bốn trúng</a>
+      </li>
+      <li>
+        <a href="https://trungthukinhdo.vn/danh-muc/banh-chay/">Bánh Chay</a>
+      </li>
+    </ol>
+    <li><a href="https://trungthukinhdo.vn/cau-chuyen-tinh-hoa/">About</a></li>
+  </ul>
+  <p>05/04/2022</p>
+  <h2>
+    Bánh nướng hai trứng:
+  </h2>
+  <img src="https://cdn.glitch.global/461d63c9-24b0-416a-9fee-804a6664a7cd/%C4%90%E1%BA%ADu-%C4%90%E1%BB%8F-Ki%E1%BB%83u-Nh%E1%BA%ADt.png?v=1649166501692" width="300px">
+  <p><i>Bánh đậu đỏ kiểu nhật</i></p>
+  <div>
+    Được làm từ các loại đậu đỏ tổng hợp, kèm 2 trứng. Đậu đỏ tượng trưng cho sự may mắn, sự phồn thịnh trong cuộc sống. Vị ngọt, bùi của đậu đỏ sẽ mang lại sự mới mẻ hơn cho lựa chọn của bạn.
+  </div>
+  <div>
+    Trao tặng món quà nhân dịp Trung Thu sao cho xứng đáng, đầy đủ sự chân thành và nồng hậu, sao cho vừa lòng người nhận mà đẹp lòng người tặng. Đó chính là ý nghĩa trọn vẹn và hoàn mỹ nhất mà những nghệ nhân kỳ công chăm chút đặt trong từng chiếc bánh Trung Thu đậu đỏ 2 trứng Đặc biệt.
+  </div>
+  <div>
+    Dù vận đổi sao dời thì những phút giây quây quần thưởng thức bánh trung thu cùng gia đình, bạn bè thân thiết dưới ánh trăng rằm vằng vặc luôn là những điều mà bất kỳ ai cũng nâng niu và trân trọng. Hãy để bánh trung thu Kinh đô đồng hành cùng bạn trong những khoảnh khắc ý nghĩa như vậy nhé.
+  </div>
+  <a href="https://trungthukinhdo.vn/san-pham/dau-do-kieu-nhat/">Read more</a>
+  <h2>
+    Bánh dẻo
+  </h2>
+  <img src="https://cdn.glitch.global/461d63c9-24b0-416a-9fee-804a6664a7cd/D%E1%BA%BBo-h%E1%BA%A1t-d%C6%B0a.png?v=1649166515199" width="300px">
+  <div>
+    Với nguyên liệu chính từ thực vật và các loại hạt tự nhiên và tiêu chí giảm ngọt giảm béo, bánh trung thu chay của Kinh Đô không hề nhàm chán. Và khó ăn như nhiều người nghĩ mà ngược lại rất thơm ngon và nhiều loại khác nhau để khách hàng lựa chọn.
+  </div>
+  <h2>
+    Bánh Chay
+  </h2>
+  <img src="https://cdn.glitch.global/461d63c9-24b0-416a-9fee-804a6664a7cd/H%E1%BA%A1t-Sen-D%E1%BB%ABa-T%C6%B0%C6%A1i.png?v=1649166529605" width="300px">
+  <div>
+    Cầu kỳ từ khâu chọn loại bột mì mềm và mịn nhất để vỏ bánh giòn thơm sần sật, cầu kỳ đến việc loại trứng tròn đều muôn vạn quả như một, thấm muối vừa vặn, sắc sảo mặn mà mà không làm phiền đến vị giác người ăn
+  </div>
+  <br>
+  <div>
+    Mỗi loại bánh từ truyền thống như nhân Thập Cẩm, nhân Đậu Xanh hay hiện đại như nhân Gà Quay XO, Bào Ngư, Vi Cá…đều thể hiện một kỳ công bất tuyệt của người Nghệ nhân làm bánh Kinh Đô.
+Đây miếng bánh thơm ngon, đây ân tình trân quý, dưới ánh trăng thu vằng vặc ta trao nhau chút tình nghĩa mặn mà của cả một mùa ân nghĩa, còn làm gì hơn vẻ hữu tình của mùa thu hơn vậy ?
+  </div>
+  <h2>
+    Bánh nướng bốn trứng
+  </h2>
+  <img src="https://cdn.glitch.global/461d63c9-24b0-416a-9fee-804a6664a7cd/%C4%90%E1%BA%ADu-Xanh-H%E1%BA%A1t-D%C6%B0a-1.png?v=1649166543046" width="300px">
+  <div>
+    Nếu bạn đã từng thưởng thức qua các loại bánh thập cẩm thì khi dùng chiếc bánh trung thu Givral cao cấp nhân thập cẩm gà quay 4 trứng của Givral bạn sẽ cảm nhận rõ hơn hương vị thơm ngon và đậm đà của gà quay kết hợp với các loại hạt, mứt bí vv…. hòa quyện vào nhau tạo nên một chiếc bánh tuyệt vời.
+  </div>
+  <p><strong>&#169 by Bánh trung thu blog</strong></p>
+</body>
